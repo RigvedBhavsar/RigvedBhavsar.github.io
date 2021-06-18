@@ -99,7 +99,19 @@
         "category": "Create Your Own Burger",
         "image": "BurgerBuilder.jpeg",
         "url": "https://zealous-shannon-c397fa.netlify.app/"
-      }
+      },
+      {
+        "title": "Instagram",
+        "category": "Instagram Clone",
+        "image": "instagram.jpg",
+        "url": "https://insta-clone21.herokuapp.com/"
+      },
+      {
+        "title": "SHOPEXX",
+        "category": "Online E-Commerce Web Application",
+        "image": "SHOPEXX.jpg",
+        "url": "https://shopexx.netlify.app/"
+      } 
     ]
   },
   "testimonials": {
